@@ -2,4 +2,4 @@
 
 ## Practical Wise Practice
 
-- DataTypes: 
+- DataTypes: int, float, string, bool, array
